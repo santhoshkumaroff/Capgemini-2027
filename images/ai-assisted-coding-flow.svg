@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#999999"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="420" fill="#f7f8fa"/>
+  <text x="500" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1a1a2e">AI-Assisted Coding — The Scaffolded Flow</text>
+  <text x="500" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#555555">Each step must be clear &amp; complete to unlock the next step — ending in code generation</text>
+
+  <!-- vertical flow, 4 steps -->
+  <!-- Step 1 -->
+  <rect x="120" y="85" width="760" height="65" rx="12" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="3"/>
+  <circle cx="160" cy="117" r="20" fill="#2b6cb0"/>
+  <text x="160" y="124" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">1</text>
+  <text x="195" y="112" font-family="Arial" font-size="17" font-weight="bold" fill="#2b6cb0">Understand &amp; Restate the Problem</text>
+  <text x="195" y="133" font-family="Arial" font-size="13" fill="#333333">Ask the AI to restate the problem and list edge cases — proves you interpreted the question correctly. (AI Literacy)</text>
+
+  <path d="M500,150 L500,175" stroke="#999999" stroke-width="3" marker-end="url(#arrow2)"/>
+
+  <!-- Step 2 -->
+  <rect x="120" y="180" width="760" height="65" rx="12" fill="#eafaf1" stroke="#2f855a" stroke-width="3"/>
+  <circle cx="160" cy="212" r="20" fill="#2f855a"/>
+  <text x="160" y="219" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">2</text>
+  <text x="195" y="207" font-family="Arial" font-size="17" font-weight="bold" fill="#2f855a">Ask For an Approach Before Code</text>
+  <text x="195" y="228" font-family="Arial" font-size="13" fill="#333333">Request 2 possible approaches + complexity, then choose one and justify it. (Problem-Solving)</text>
+
+  <path d="M500,245 L500,270" stroke="#999999" stroke-width="3" marker-end="url(#arrow2)"/>
+
+  <!-- Step 3 -->
+  <rect x="120" y="275" width="760" height="65" rx="12" fill="#f3ecfc" stroke="#6b46c1" stroke-width="3"/>
+  <circle cx="160" cy="307" r="20" fill="#6b46c1"/>
+  <text x="160" y="314" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">3</text>
+  <text x="195" y="302" font-family="Arial" font-size="17" font-weight="bold" fill="#6b46c1">Request Structured Code</text>
+  <text x="195" y="323" font-family="Arial" font-size="13" fill="#333333">Specify language, clear variable names, comments per step. (Prompt Quality)</text>
+
+  <path d="M500,340 L500,365" stroke="#999999" stroke-width="3" marker-end="url(#arrow2)"/>
+
+  <!-- Step 4 -->
+  <rect x="120" y="370" width="760" height="65" rx="12" fill="#fdeeee" stroke="#c53030" stroke-width="3"/>
+  <circle cx="160" cy="402" r="20" fill="#c53030"/>
+  <text x="160" y="409" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">4</text>
+  <text x="195" y="397" font-family="Arial" font-size="17" font-weight="bold" fill="#c53030">Review &amp; Adapt — Don't Just Copy-Paste</text>
+  <text x="195" y="418" font-family="Arial" font-size="13" fill="#333333">Manually trace the code on 2+ inputs. Ask the AI to fix specific issues you find. (Review &amp; Adapt)</text>
+</svg>

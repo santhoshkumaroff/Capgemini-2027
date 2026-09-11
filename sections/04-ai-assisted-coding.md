@@ -40,24 +40,33 @@ accepting the first output with no review, moving on. This round explicitly pena
 
 ---
 
-## The 4-step scaffolded flow (rehearse this every time)
+## 📋 Master Prompt Template — reuse this for EVERY scenario
 
-**Step 1 — Understand & restate (AI literacy).**
-*"Before writing code, restate this problem in your own words and list edge cases I should
-consider: [paste problem]."*
+This is the one template that works across all 6 scenarios below (and any other coding problem in
+the real exam). Only the bracketed `[...]` parts change — the shape of the 4 prompts stays
+identical every time. Fill in the blanks, run the 4 steps in order, done.
 
-**Step 2 — Ask for an approach before code (problem-solving).**
-*"Don't write code yet. What are 2 possible approaches, and what's the time/space complexity of
-each? Which would you recommend and why?"*
+| Step | What it tests | Copy-paste prompt |
+|---|---|---|
+| **1. Understand & restate** | AI literacy | *"Before writing any code, restate this problem in your own words, list the inputs/outputs, and list every edge case I should consider: **[PASTE PROBLEM STATEMENT]**"* |
+| **2. Approach before code** | Problem-solving | *"Don't write code yet. Give me 2 possible approaches to solve this, with the time and space complexity of each. Which one would you recommend, and why?"* |
+| **3. Request structured code** | Prompt quality | *"Implement the **[CHOSEN]** approach in **[LANGUAGE]**. Use clear variable names, add a comment explaining each major step, and note the time/space complexity in a comment at the top."* |
+| **4. Review & adapt** | Review & adapt | *"Trace through this code manually with **[SPECIFIC TEST INPUT]**. Does it handle an empty input? A single-element input? Are there any lines that could throw an exception or behave unexpectedly?"* |
 
-**Step 3 — Request structured code (prompt quality).**
-*"Implement the [chosen] approach in [language]. Use clear variable names, comment each major
-step, and note the time/space complexity at the top."*
+**What to fill in, every time:**
+- `[PASTE PROBLEM STATEMENT]` → whatever problem you're given
+- `[CHOSEN]` → whichever approach the AI recommended in Step 2 that you agreed with
+- `[LANGUAGE]` → C, C++, Java, Python — whatever's required
+- `[SPECIFIC TEST INPUT]` → a real example relevant to that problem (empty array, single node, duplicate values, etc.)
 
-**Step 4 — Review & adapt (this is the step most students skip).**
-*"Trace through this code manually with input X. Does it handle an empty input? A single-element
-input? Are there lines that could throw an exception?"* — then personally read the code and be
-ready to explain every line.
+**⚠️ Important limit — read this before relying on the template:** the template is reusable
+*structure*, not a substitute for actually engaging with what comes back. The AI's replies —
+the edge cases in Step 1, the approaches in Step 2, the trace in Step 4 — will be genuinely
+different for every problem. Pasting the same 4 prompts without reading the responses defeats
+the entire purpose of this round (see "the single biggest mistake," above).
+
+Every worked scenario below follows exactly this 4-step shape — watch how the brackets get filled
+in differently each time, while the prompts themselves stay the same.
 
 ---
 

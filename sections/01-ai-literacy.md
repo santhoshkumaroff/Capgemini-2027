@@ -1,4 +1,19 @@
-# Section 1 — AI Literacy (40 Practice MCQs)
+[🏠 Home](../README.md) · [Next: Technical Assessment ➡](./02-technical-assessment.md)
+
+---
+
+# 🤖 Chapter 1 — AI Literacy
+
+**📑 In this chapter:**
+
+1. [Topic 1: AI Foundations & Generative AI (Q1–Q10)](#topic-1)
+2. [Topic 2: Prompt Engineering & AI Productivity (Q11–Q20)](#topic-2)
+3. [Topic 3: Advanced AI Systems (Q21–Q30)](#topic-3)
+4. [Topic 4: Responsible AI & AI Evaluation (Q31–Q40)](#topic-4)
+
+[🔝 Jump to navigation ⬇](#-continue-reading) (bottom of page)
+
+---
 
 🔮 **Source note:** Practice questions matched to Capgemini's confirmed topic list. Not leaked real
 exam questions — built for volume + understanding, not memorization.
@@ -7,6 +22,7 @@ exam questions — built for volume + understanding, not memorization.
 
 ---
 
+<a id="topic-1"></a>
 ## Topic 1: AI Foundations & Generative AI (Q1–Q10)
 
 **Q1. What is a "foundation model"?**
@@ -89,6 +105,7 @@ A) Creating cryptocurrency tokens  B) Breaking text into smaller units (words/su
 
 ---
 
+<a id="topic-2"></a>
 ## Topic 2: Prompt Engineering & AI Productivity (Q11–Q20)
 
 **Q11. Which is the BEST example of a well-structured prompt?**
@@ -171,6 +188,7 @@ A) Specifying the exact function signature and edge cases  B) Pasting the raw pr
 
 ---
 
+<a id="topic-3"></a>
 ## Topic 3: Advanced AI Systems (Q21–Q30)
 
 **Q21. What does RAG stand for?**
@@ -253,6 +271,7 @@ A) Nothing, they're identical  B) Agentic AI can independently decide on and exe
 
 ---
 
+<a id="topic-4"></a>
 ## Topic 4: Responsible AI & AI Evaluation (Q31–Q40)
 
 **Q31. Why is "output validation" important for AI-generated content/code?**
@@ -337,3 +356,11 @@ A) Ban AI use entirely with no exceptions  B) Require human review/fact-checking
 
 ## Visual summary
 See `../images/debugging-flow.svg` and `../images/ai-assisted-coding-flow.svg` for the other two rounds' flowcharts.
+
+
+---
+
+<a id="-continue-reading"></a>
+## Continue reading
+
+[🏠 Home](../README.md) · [Next: Technical Assessment ➡](./02-technical-assessment.md)

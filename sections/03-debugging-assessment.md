@@ -1,4 +1,23 @@
-# Debugging Assessment — 1 Question, ~20 Minutes, C / C++ / Java
+[🏠 Home](../README.md) · [⬅ Previous: Technical Assessment](./02-technical-assessment.md) · [Next: AI-Assisted Coding ➡](./04-ai-assisted-coding.md)
+
+---
+
+# 🐛 Chapter 3 — Debugging Assessment
+
+**📑 In this chapter:**
+
+1. [Problem 1 — Trees (Java): Height of a Binary Tree](#problem-1)
+2. [Problem 2 — Graphs (C++): Detect a Cycle in a Directed Graph (DFS)](#problem-2)
+3. [Problem 3 — 2D Dynamic Programming (pseudocode): Longest Common Subsequence](#problem-3)
+4. [Problem 4 — Advanced DSA (Java): Kth Largest Element via Min-Heap](#problem-4)
+5. [Problem 5 — Trees (C++): Validate a Binary Search Tree](#problem-5)
+6. [Problem 6 — Graphs (Java): BFS Shortest Path (Unweighted Graph)](#problem-6)
+7. [Problem 7 — 2D Dynamic Programming (C): 0/1 Knapsack](#problem-7)
+8. [Problem 8 — Advanced DSA (C++): Sliding Window Maximum](#problem-8)
+
+[🔝 Jump to navigation ⬇](#-continue-reading) (bottom of page)
+
+---
 
 🔮 **Source note:** Practice problems matched to the confirmed format (1 buggy program, C/C++/Java,
 topics: Trees, Graphs, 2D DP, Advanced DSA). Not confirmed real exam questions — but the 4-step
@@ -19,6 +38,7 @@ method below is Capgemini's own confirmed process, and it transfers to any debug
 
 ---
 
+<a id="problem-1"></a>
 ## Problem 1 — Trees (Java): Height of a Binary Tree
 
 ```java
@@ -42,6 +62,7 @@ of both subtree heights.
 
 ---
 
+<a id="problem-2"></a>
 ## Problem 2 — Graphs (C++): Detect a Cycle in a Directed Graph (DFS)
 
 ```cpp
@@ -78,6 +99,7 @@ back on the SAME route you're currently driving.
 
 ---
 
+<a id="problem-3"></a>
 ## Problem 3 — 2D Dynamic Programming (pseudocode): Longest Common Subsequence
 
 ```
@@ -97,6 +119,7 @@ for i from 1 to m:
 
 ---
 
+<a id="problem-4"></a>
 ## Problem 4 — Advanced DSA (Java): Kth Largest Element via Min-Heap
 
 ```java
@@ -123,6 +146,7 @@ good code should say so clearly.
 
 ---
 
+<a id="problem-5"></a>
 ## Problem 5 — Trees (C++): Validate a Binary Search Tree
 
 ```cpp
@@ -157,6 +181,7 @@ number" — even one exact duplicate breaks the ordering rule.
 
 ---
 
+<a id="problem-6"></a>
 ## Problem 6 — Graphs (Java): BFS Shortest Path (Unweighted Graph)
 
 ```java
@@ -200,6 +225,7 @@ the FIRST ripple that reaches it (the shortest distance), not get overwritten by
 
 ---
 
+<a id="problem-7"></a>
 ## Problem 7 — 2D Dynamic Programming (C): 0/1 Knapsack
 
 ```c
@@ -237,6 +263,7 @@ positions — this single mismatch is one of the most repeated DP bugs across di
 
 ---
 
+<a id="problem-8"></a>
 ## Problem 8 — Advanced DSA (C++): Sliding Window Maximum
 
 ```cpp
@@ -280,3 +307,11 @@ Have students solve all 8 of these **blind first** (cover the Identify/Fix/Valid
 attempt the bug-find themselves on a 15-20 min timer per problem), THEN compare against the
 explanations here. Reading the answer first without attempting it builds false confidence — solving
 it cold is what actually prepares them for the real 20-minute round.
+
+
+---
+
+<a id="-continue-reading"></a>
+## Continue reading
+
+[🏠 Home](../README.md) · [⬅ Previous: Technical Assessment](./02-technical-assessment.md) · [Next: AI-Assisted Coding ➡](./04-ai-assisted-coding.md)

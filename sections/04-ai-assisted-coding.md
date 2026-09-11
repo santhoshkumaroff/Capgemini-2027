@@ -1,4 +1,21 @@
-# AI-Assisted Coding Assessment
+[🏠 Home](../README.md) · [⬅ Previous: Debugging Assessment](./03-debugging-assessment.md) · [Next: HR & Behavioral ➡](./05-hr-behavioral-bonus.md)
+
+---
+
+# 🧑‍💻 Chapter 4 — AI-Assisted Coding
+
+**📑 In this chapter:**
+
+1. [Practice Scenario 1: Palindrome Check](#scenario-1)
+2. [Practice Scenario 2: Two-Sum Problem](#scenario-2)
+3. [Practice Scenario 3: Merge Two Sorted Arrays (In-Place)](#scenario-3)
+4. [Practice Scenario 4: Find the First Non-Repeating Character](#scenario-4)
+5. [Practice Scenario 5: Implement a Basic LRU Cache](#scenario-5)
+6. [Practice Scenario 6: Merge Overlapping Intervals](#scenario-6)
+
+[🔝 Jump to navigation ⬇](#-continue-reading) (bottom of page)
+
+---
 
 🔮 **Source note:** Practice guide matched to the confirmed format from the slide. Not confirmed
 real exam content — but the evaluation criteria below ARE confirmed from the slide, and that's
@@ -44,6 +61,7 @@ ready to explain every line.
 
 ---
 
+<a id="scenario-1"></a>
 ## Practice Scenario 1: Palindrome Check
 
 **Task:** Check if a string is a palindrome, ignoring case and spaces.
@@ -58,6 +76,7 @@ an example + explicit edge case + self-testing request — exactly "structured, 
 
 ---
 
+<a id="scenario-2"></a>
 ## Practice Scenario 2: Two-Sum Problem
 
 **Task:** Given an array and a target, find two numbers that add up to the target.
@@ -78,6 +97,7 @@ correctly return both indices even though the values are identical?"* — this s
 
 ---
 
+<a id="scenario-3"></a>
 ## Practice Scenario 3: Merge Two Sorted Arrays (In-Place)
 
 **Task:** Merge two sorted arrays into one, without using extra space.
@@ -96,6 +116,7 @@ step."* — forces a full manual trace, not a "looks fine" glance.
 
 ---
 
+<a id="scenario-4"></a>
 ## Practice Scenario 4: Find the First Non-Repeating Character
 
 **Task:** Given a string, return the first character that doesn't repeat.
@@ -111,6 +132,7 @@ of edge case Step 4 is designed to surface.
 
 ---
 
+<a id="scenario-5"></a>
 ## Practice Scenario 5: Implement a Basic LRU Cache
 
 **Task:** Design a Least Recently Used (LRU) cache with `get` and `put` operations in O(1) time.
@@ -132,6 +154,7 @@ code was pasted successfully.
 
 ---
 
+<a id="scenario-6"></a>
 ## Practice Scenario 6: Merge Overlapping Intervals
 
 **Task:** Given a list of intervals, merge all overlapping ones.
@@ -168,3 +191,11 @@ result list after each interval is processed."* — full manual trace, not a gla
 
 **Hard rule for every practice run:** no pasting the raw problem as-is into the AI — every prompt
 must be restructured first, following the 4-step flow above.
+
+
+---
+
+<a id="-continue-reading"></a>
+## Continue reading
+
+[🏠 Home](../README.md) · [⬅ Previous: Debugging Assessment](./03-debugging-assessment.md) · [Next: HR & Behavioral ➡](./05-hr-behavioral-bonus.md)

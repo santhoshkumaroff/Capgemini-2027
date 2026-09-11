@@ -1,4 +1,19 @@
-# Section 2 — Technical Assessment (48 Practice MCQs)
+[🏠 Home](../README.md) · [⬅ Previous: AI Literacy](./01-ai-literacy.md) · [Next: Debugging Assessment ➡](./03-debugging-assessment.md)
+
+---
+
+# 🧮 Chapter 2 — Technical Assessment
+
+**📑 In this chapter:**
+
+1. [Topic 1: Programming Logic & Problem Solving (Q1–Q12)](#topic-1)
+2. [Topic 2: Data Structures & Algorithms (Q13–Q24)](#topic-2)
+3. [Topic 3: Software Engineering Fundamentals (Q25–Q36)](#topic-3)
+4. [Topic 4: Modern Engineering Awareness (Q37–Q48)](#topic-4)
+
+[🔝 Jump to navigation ⬇](#-continue-reading) (bottom of page)
+
+---
 
 🔮 **Source note:** Practice questions matched to Capgemini's confirmed topic list. Not leaked real
 exam questions — built for volume + understanding.
@@ -7,6 +22,7 @@ exam questions — built for volume + understanding.
 
 ---
 
+<a id="topic-1"></a>
 ## Topic 1: Programming Logic & Problem Solving (Q1–Q12)
 
 **Q1. What will this print?**
@@ -129,6 +145,7 @@ A) 0 1 2  B) 1 2 3  C) 0 1 2 3  D) Infinite loop
 
 ---
 
+<a id="topic-2"></a>
 ## Topic 2: Data Structures & Algorithms (Q13–Q24)
 
 **Q13. Average time complexity of binary search on a sorted array of size n?**
@@ -216,6 +233,7 @@ A) Deleting old computed results to save memory  B) Storing (caching) results of
 
 ---
 
+<a id="topic-3"></a>
 ## Topic 3: Software Engineering Fundamentals (Q25–Q36)
 
 **Q25. Which OOP principle allows a subclass to redefine a parent's method?**
@@ -306,6 +324,7 @@ A) It means the request always fails the second time  B) Calling it multiple tim
 
 ---
 
+<a id="topic-4"></a>
 ## Topic 4: Modern Engineering Awareness (Q37–Q48)
 
 **Q37. In client-server architecture, the "client" typically:**
@@ -400,3 +419,11 @@ A) They are identical terms  B) An image is a static, packaged blueprint (app + 
 
 ## Visual summary
 See `../images/debugging-flow.svg` for the Debugging round's process and `../images/ai-assisted-coding-flow.svg` for the AI-Assisted Coding round's flow.
+
+
+---
+
+<a id="-continue-reading"></a>
+## Continue reading
+
+[🏠 Home](../README.md) · [⬅ Previous: AI Literacy](./01-ai-literacy.md) · [Next: Debugging Assessment ➡](./03-debugging-assessment.md)

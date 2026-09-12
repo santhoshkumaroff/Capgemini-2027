@@ -66,6 +66,16 @@ the reasoning, not just the answer key.
 yourself" through resume-gap questions — each with what's being tested, an answer structure, and a
 fresher-specific tip.)*
 
+### [🧵 Chapter 6 — Live Coding: Existing-Codebase Scenarios (Bonus)](sections/06-live-coding-scenarios.md) · 2 prompts
+1. [Prompt 1 — Bug Identification (Read-Only Diagnosis)](sections/06-live-coding-scenarios.md#prompt-1)
+2. [Prompt 2 — Feature Addition (Analysis + Step-by-Step Guidance)](sections/06-live-coding-scenarios.md#prompt-2)
+3. [How to actually use this](sections/06-live-coding-scenarios.md#how-to-use)
+
+*(For MERN/React "diagnose but don't edit" rounds — given buggy or existing code, identify issues
+or plan a feature addition using AI purely as a guide, with the student applying every change by
+hand. Not cross-checked against real reported interview experiences — see the note inside the
+chapter.)*
+
 ---
 
 ## 📖 How this book is structured
@@ -118,7 +128,8 @@ Capgemini-2027/
     ├── 02-technical-assessment.md     ← Chapter 2
     ├── 03-debugging-assessment.md     ← Chapter 3
     ├── 04-ai-assisted-coding.md       ← Chapter 4
-    └── 05-hr-behavioral-bonus.md      ← Chapter 5
+    ├── 05-hr-behavioral-bonus.md      ← Chapter 5
+    └── 06-live-coding-scenarios.md    ← Chapter 6
 ```
 
 ## 🎓 How to run a mock session with students
@@ -131,6 +142,10 @@ Capgemini-2027/
    prompted using the rubric table inside the chapter — not just whether the code worked.
 4. **Chapter 5 (HR/Behavioral):** Run as mock interviews — one student asks, one answers, then
    swap. Push for specific real examples, not memorized scripts.
+5. **Chapter 6 (Live Coding Scenarios):** Give students a real buggy MERN component (or one with a
+   feature request) and have them run the prompts themselves — then require them to explain each
+   flagged bug or step *in their own words*, with no AI help, before moving on. This is the step
+   that actually determines whether the round goes well, not the prompt alone.
 
 ## 🚀 Get started
 **[→ Begin with Chapter 1: AI Literacy](sections/01-ai-literacy.md)**

@@ -1,4 +1,4 @@
-[🏠 Home](../README.md) · [⬅ Previous: AI-Assisted Coding](./04-ai-assisted-coding.md)
+[🏠 Home](../README.md) · [⬅ Previous: AI-Assisted Coding](./04-ai-assisted-coding.md) · [Next: Live Coding Scenarios ➡](./06-live-coding-scenarios.md)
 
 ---
 
@@ -324,4 +324,4 @@ want a straightforward, non-defensive answer.
 <a id="-continue-reading"></a>
 ## Continue reading
 
-[🏠 Home](../README.md) · [⬅ Previous: AI-Assisted Coding](./04-ai-assisted-coding.md)
+[🏠 Home](../README.md) · [⬅ Previous: AI-Assisted Coding](./04-ai-assisted-coding.md) · [Next: Live Coding Scenarios ➡](./06-live-coding-scenarios.md)
